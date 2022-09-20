@@ -1,7 +1,7 @@
 {
   "name": "shopping-cart",
   "version": "0.1.0",
-  "homepage": "https://faridfadilah.github.io/React-Shopping-Cart/",
+  "homepage": "https://faridfadilah.github.io/React-Shopping-Cart",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
