@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Shopping-Cart/static/css/main.b6865f30.css",
+    "main.js": "/React-Shopping-Cart/static/js/main.ffd18495.js",
+    "static/js/787.d6fe38e8.chunk.js": "/React-Shopping-Cart/static/js/787.d6fe38e8.chunk.js",
+    "static/media/Pizza.jpg": "/React-Shopping-Cart/static/media/Pizza.e3d2123069a323ca846f.jpg",
+    "static/media/blackCoffee.jpg": "/React-Shopping-Cart/static/media/blackCoffee.03b5171d0f86107f6312.jpg",
+    "static/media/Milk.jpg": "/React-Shopping-Cart/static/media/Milk.d96f1b76aea818be902c.jpg",
+    "static/media/Waffle.jpg": "/React-Shopping-Cart/static/media/Waffle.8cca3e8dd6890dd60991.jpg",
+    "static/media/CoffeeLattee2.jpg": "/React-Shopping-Cart/static/media/CoffeeLattee2.67f936f2a9d8e87a34c3.jpg",
+    "static/media/WafflenoBG.png": "/React-Shopping-Cart/static/media/WafflenoBG.266adcb4e46bbb6c5dd1.png",
+    "static/media/MatchaLattee.jpg": "/React-Shopping-Cart/static/media/MatchaLattee.b8477e950d3db7867456.jpg",
+    "static/media/Cake.jpg": "/React-Shopping-Cart/static/media/Cake.cf0bb9fde84646b0dccb.jpg",
+    "static/media/FreshWater.jpg": "/React-Shopping-Cart/static/media/FreshWater.826b6ab5be09635bb8d6.jpg",
+    "static/media/CoffeeLattee.jpg": "/React-Shopping-Cart/static/media/CoffeeLattee.8e76dad39ca5f5fca56e.jpg",
+    "static/media/iceCream.jpg": "/React-Shopping-Cart/static/media/iceCream.105535a0bc8b4ad804ad.jpg",
+    "index.html": "/React-Shopping-Cart/index.html",
+    "main.b6865f30.css.map": "/React-Shopping-Cart/static/css/main.b6865f30.css.map",
+    "main.ffd18495.js.map": "/React-Shopping-Cart/static/js/main.ffd18495.js.map",
+    "787.d6fe38e8.chunk.js.map": "/React-Shopping-Cart/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6865f30.css",
+    "static/js/main.ffd18495.js"
+  ]
+}
